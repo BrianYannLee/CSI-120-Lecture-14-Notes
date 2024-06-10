@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSI 120 Lecture 14 Notes", "CSI 120 Lecture 14 Notes.csproj", "{CBE3D058-363B-4D1D-B7E9-282F79C3D92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE3D058-363B-4D1D-B7E9-282F79C3D92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE3D058-363B-4D1D-B7E9-282F79C3D92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE3D058-363B-4D1D-B7E9-282F79C3D92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE3D058-363B-4D1D-B7E9-282F79C3D92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B47BD94E-132F-41D2-A14C-C32F240F8803}
+	EndGlobalSection
+EndGlobal
